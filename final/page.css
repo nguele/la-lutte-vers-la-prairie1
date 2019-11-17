@@ -1,0 +1,58 @@
+body {
+background-image : url("font6.jpg");
+background-repeat : repeat;
+background-position : top;
+background-color : green;
+background-size : 2000px;
+}
+h3 {
+font-weight : bold;
+}
+h1 {
+color : blue;
+font-weight : bold;
+background-position : center;
+}
+h1 {
+text-align : center;
+}
+h4 {
+text-align : justify;
+border : blue solid 3px;
+font-family : times new roman;
+font-size : 20px;
+border-radius : 90px;
+margin-right : 1px;
+margin-left : 1px;
+}
+h2 {
+border : blue solid 3px;
+border-radius : 20px;
+margin-right : 500px;
+margin-left : 50px;
+background-position : center;
+}
+button {
+cursor : pointer;
+border : none;
+border-radius : 3px;
+font-size : 20px;
+color : blue;
+font-family : monospace;
+}
+.ab {
+color : red;
+
+}
+img{
+	background-position : center;
+	background-image:center;
+	margin-left:50%;
+	margin-right:50%;
+}
+.ad{
+	background-position : center;
+	background-image:center;
+	margin-left:50%;
+	margin-right:50%;
+}
